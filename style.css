@@ -1,0 +1,83 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center; /*alinhamento*/
+  margin: 0;
+  }
+
+  #hero { /*# quer dizer q pega o id*/
+    width: 626px;
+    margin: 0 auto 64px; /*espaçamementos*/
+
+  }
+
+  #hero img {
+    margin-bottom: 32px;
+  }
+  
+
+h1 {
+  width: 494px;
+  height: 40px;
+  font-family:  'Dosis', Medium;
+  font-size: 32px;
+  line-height: auto; /*altura da linha*/
+  font-weight: normal;
+
+  margin-bottom: 16px;
+ 
+}
+#linha3 {
+  margin-bottom: 32px;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+
+span, a {
+  color: #EE24FF;
+}
+
+p{
+  width: 540px;
+  height: 107px;
+  color: #3F3D56;
+  font-size: 15px;
+  line-height: 22px;
+
+}
+
+
+
+#footer a + a {
+  margin-left: 47px;
+}
+
+#footer {
+  margin-bottom: 64px;
+  color: #3F3D56;
+  font-size: 15px;
+  line-height: 147%;
+  
+}
+
+.line { /*# -> para usasr id; para usars class usa "."*/
+  width: 391px; /*largura*/
+  height: 0px; /*altura*/
+  border: 1px #ECEFF2 solid;
+  margin: 0 auto 16px; /* posição - 1-cima 2-laterais 3- baixo*/
+  /* 1- cima 2-direita - 3- baixo - 4 esqueda*/
+
+}
+
+#footerRoxo {
+  /*position: fixed;
+  bottom: 0;
+  right: 0;*/
+}
+
+a{
+  font: "Open Sans", bold;
+  color: #3F3D56;
+}

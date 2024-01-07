@@ -1,0 +1,8 @@
+fontes: 
+  texto maior:  
+      Dosis medium e bold
+      Open Sans Regular e bold
+
+
+Div Hero
+Margin: top 64 auto botton 240
